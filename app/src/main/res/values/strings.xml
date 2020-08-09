@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Encrypt/Decrypt</string>
+
+    <string name="random_text">Welcome to my app!</string>
+    <string name="text_field">Encryption/Decryption \nMade by Anubhav Uniyal \n1000010780</string>
+    <string name="press_me">Available Encryption</string>
+    <string name="all">all the available encryption</string>
+    <string name="button1">Vigenere Cipher</string>
+    <string name="button2">Caesar Cipher</string>
+    <string name="button3">RailFence Cipher</string>
+    <string name="button4">Product Cipher</string>
+    <string name="AnyEncryptionName">Details About the Encryption/Decryption</string>
+    <string name="InsideAnyEncryptionBox">Enter the string to be encrypted</string>
+    <string name="InsideAnyDecryptionBox">Enter the string to be decrypted</string>
+    <string name="EncryptButton">Encrypt</string>
+    <string name="DecryptButton">Decrypt</string>
+    <string name="enter_the_number_of_shifts">Enter the number of Shifts</string>
+    <string name="enter_the_depth">Enter the depth for encryption</string>
+</resources>
